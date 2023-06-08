@@ -20,6 +20,6 @@ int main(void){
     return(0);
 }
 
-void text(int *int_pointer){
+void test(int *int_pointer){
     *int_pointer = 100;
 }
