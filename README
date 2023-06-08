@@ -1,0 +1,5 @@
+/* README for Ptr11c8 project
+*  Ptr11c8 passes a pointer to a function which changes the contents of the
+*  pointer.
+*
+*/
